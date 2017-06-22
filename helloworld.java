@@ -1,4 +1,4 @@
-package com.qiqi.helloworld;
+package com.jianqq.hello-world;
 
 public class HelloWorld{
   public static void main(String []args){
